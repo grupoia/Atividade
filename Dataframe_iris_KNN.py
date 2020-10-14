@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Sep 19 19:47:14 2020
+
 @author: https://www.codigofluente.com.br/aula-04-instalando-o-pandas/
 """
 import random
